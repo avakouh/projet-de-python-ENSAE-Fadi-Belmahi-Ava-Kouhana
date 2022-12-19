@@ -10,10 +10,8 @@ Nous avons décidé de compléter notre étude par du Natural Language Processin
 La première partie du projet comporte les élèments de statistiques descriptives et de modélisation réalisées sur la base de donnée emdat.be. 
 
 La 2ème partie comporte le sentiment analysis réalisés sur les tweets scrappés. L'objectif de cette partie est double : 
-
-     -d'abord nous cherchons à savoir si on observe bien la tendance d'augmentation des tweets qui concernent les catastrophes naturelles depuis les années       2000. 
-     
-     -enfin, nous avons performé un algorithme d'analyse de sentiment sur les tweets dans l'objectif de tenter de déceler une augmentation de l'inquiétude     des individus sur les catastrophes naturelles. 
+D'abord nous cherchons à savoir si on observe bien la tendance d'augmentation des tweets qui concernent les catastrophes naturelles depuis les années       2000. 
+Enfin, nous avons performé un algorithme d'analyse de sentiment sur les tweets dans l'objectif de tenter de déceler une augmentation de l'inquiétude     des individus sur les catastrophes naturelles. 
      
 Ces deux parties sont présentées sous forme de notebook dans le fichier projet de github. 
 
