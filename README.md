@@ -14,5 +14,3 @@ D'abord nous cherchons à savoir si on observe bien la tendance d'augmentation d
 Enfin, nous avons performé un algorithme d'analyse de sentiment sur les tweets dans l'objectif de tenter de déceler une augmentation de l'inquiétude     des individus sur les catastrophes naturelles. 
      
 Ces deux parties sont présentées sous forme de notebook dans le fichier projet de github. 
-
-Nous avons ajouté en annexe une map interactive des zones géographiques les plus fréquemment touchées par des catastrophes naturelles
