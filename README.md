@@ -1,7 +1,7 @@
 # projet-de-python-ENSAE-Fadi-Belmahi-Ava-Kouhana
 L'objectif de ce projet est d'analyser les catastrophes naturelles dans le monde puis de tenter de determiner les effets et les causes de ces catastrophes naturelles. 
 
-Pour cela, après de nombreuses recherches de bases de données fiables, nous avons décidé de nous appuyer sur une base de donnée provenant du site emdat.be. La base de données utilisée est présente au format csv et xlsx dans le fichier github data.  
+Pour cela, après de nombreuses recherches de bases de données fiables, nous avons décidé de nous appuyer sur une base de donnée provenant du site emdat.be. La base de données utilisée est présente au format csv dans le fichier github data.  
 
 
 Nous avons décidé de compléter notre étude par du Natural Language Processing des données extraites grâce à l'outil de scrapping twitter python que nous avons codé. Concernant l'outil de scrapping de twitter, nous avons joint son code au fichier "analyse descriptive et modélisation", ce code contourne l'API twitter qui nous aurait limité dans notre projet. La base de données est présente au format csv dans le fichier github data. 
